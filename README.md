@@ -97,7 +97,7 @@ module: {
 Please follow the [installation](#installation) instruction and execute the following JS code:
 
 ```javascript
-var Auth = require('kibo-sdk-auth');
+var Auth = require('kibo-auth-sdk');
 
 var authApiClient = Auth.ApiClient.instance;
 
